@@ -173,7 +173,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds/online-examination" target="_blank">About us</a>
+<a href="http://www.sunagar.com" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
@@ -195,13 +195,13 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="image/20200816_090618.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Ramesh Dodamani</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 7760725636</h4>
+		<h4 style="font-family:'typo' ">rameshdodamani22@gmail.com</h4>
+		<h4 style="font-family:'typo' ">BLDEA'S VP.Dr P G Halakatti College Of Engineering and Technology </h4></div></div>
 		</p>
       </div>
     

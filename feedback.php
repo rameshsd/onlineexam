@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">sunnygkp10@gmail.com</a><br /><br />
+<a href="mailto:rameshdodamani22@gmail.com" style="color:#000000">rameshdodamani12@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
@@ -141,7 +141,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds.in/online-examination" target="_blank">About us</a>
+<a href="http://www.sunagar.com" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
@@ -169,8 +169,8 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 		 <div class="col-md-5">
 		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<h4 style="font-family:'typo' ">rameshdodamani22@gmail.com</h4>
+		<h4 style="font-family:'typo' ">BLDEA'S VP.Dr P G Halakatti College Of Engineering and Technology,vijayapura</h4></div></div>
 		</p>
       </div>
     
